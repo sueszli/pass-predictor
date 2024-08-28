@@ -1,4 +1,4 @@
-Educational data mining techniques applied to identify key factors associated with student success in the introductory programming course 185.A91 EP1 @ TU Wien.
+Machine learning meets computer science education @ 185.A91 EP1 at TU Wien.
 
 Key findings:
 
