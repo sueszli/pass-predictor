@@ -10,7 +10,7 @@ Key findings:
 
 Limitations:
 
-- Limited data quality and availability
+- Limited data quality, availability and truthfulness
 - Lack of historical data
 - Time constraints in project execution
 
