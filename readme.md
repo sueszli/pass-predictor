@@ -1,3 +1,5 @@
+<!-- https://git.logic.at/podlipnig/ep1_analytics -->
+
 Machine learning meets computer science education @ 185.A91 EP1 in TU Wien.
 
 Key findings:
