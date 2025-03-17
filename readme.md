@@ -18,8 +18,6 @@ for a full report see the [report](./docs/report.pdf) or the [poster](./docs/pos
 
 thanks to my supervisors stefan and martin for their guidance and support throughout the project!
 
-<br>
-
 ![Individual terms correlation heatmap (inferred features)](./docs/assets/corrmap.png)
 
 ![Years enrolled boxplot](./docs/assets/years-enrolled-boxplot.png)
